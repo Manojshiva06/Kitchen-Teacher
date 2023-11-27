@@ -1,0 +1,181 @@
+
+#logo{
+    height: 60px; width: 50; 
+    display:flex;
+    align-items: flex-start;
+}
+header{
+    background-color: rgb(61, 43, 43);
+    color:#fcfa8a;
+    font-size:xx-large;
+    text-align: center;
+}
+#drinks,
+#soups,
+#meals,
+#rice,
+#roti,
+#dessert,
+#snacks{
+    text-align: center;
+    background-color: rgb(12, 12, 12);
+    color: aliceblue;
+}
+nav{
+    background-color: rgb(38, 29, 29);
+    color:#fcfa8a;
+    text-align: center;
+    font-size: x-large;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+a{
+    font-size: larger;
+    font-weight: bold;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: center;
+}
+
+.drinks,
+.roti,
+.soups,
+.meals,
+.rice,
+.dessert,
+.snacks{
+    height: 400px; width: 400px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 500px;
+    padding-right: 500px;
+    border-style: solid;
+    
+}
+div{
+    align-items: center;
+}
+.recipe-name,
+.ingredients,
+.preparation,h3{
+    text-align: center;
+}
+li{
+    list-style-position: inside;
+    font-size: 30px;
+}
+pre{
+    text-align: center;
+    font-family: arial
+}
+.figure{
+    display: grid;
+    block;
+}
+
+.col{
+    padding-top: 20px;
+}
+.a1{
+    text-decoration: none;
+    justify-content: center;
+}
+.tea1{
+   display: flex;
+   align-content: center;
+}
+.title{
+    font-style:initial;
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif ;
+}
+.line{
+    padding-top: 20px;
+}
+#division{
+    justify-content: center;
+}
+.maincontent{
+    background-color: azure;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.img1{
+    justify-items: center;
+    justify-content: center;
+    float: right;
+}
+#coating{
+    text-align: left;
+    font-size: 30px;
+}
+.dove{
+   padding-top: 250px;
+}
+.main1{
+    padding-bottom: px;
+}
+#para{
+    font-size: 80px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding-top: 100px;
+    margin-bottom: 50px;
+}
+.tree{
+    font-size: 5px;
+}
+.back{
+    display: flex;
+    justify-content:right;
+    align-items: right;
+}
+.innerimage{
+    display: flex;
+    float: inline-end;
+    width: 30%;
+    margin: 30px;
+}
+.tea1{
+    background-color: rgb(12, 209, 160);
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    margin-left: 40%;
+    }
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+    border-radius: 50%;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+    border-radius: 50%;
+  }
+  .footer{
+    background-color: black;
+  }
+  .end{
+    color: yellow;
+    font-size: 20px;
+  }
