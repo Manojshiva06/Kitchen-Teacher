@@ -179,3 +179,17 @@ pre{
     color: yellow;
     font-size: 20px;
   }
+#newtitle1{
+    font-size:50px; 
+}
+.botbody{
+    background-color: #fcfa8a;
+}
+.bot{
+    padding-left: 30px;
+    padding-top: 30px;
+}
+#Back{
+    margin-left: 35px;
+    margin-top: 5px;
+}
