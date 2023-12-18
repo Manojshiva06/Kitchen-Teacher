@@ -6,9 +6,9 @@ Demo Video URL :
 Github Repository URL : 
 Industry : Lifestyle and Technology
 # Azure Services Used
-  1.Azure Blob storage
-  1.Storage Account
-  1.Azure Backup service
+  1. Azure Blob storage
+  1. Storage Account
+  1. Azure Backup service
 # Problem Statement
 Many aspiring chefs lack accessible culinary resources. A kitchen teacher aims to bridge this gap by offering online tutorials. However, a static website is needed to effectively showcase and organize the lessons.
 # Project Decription
