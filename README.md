@@ -24,12 +24,24 @@ The project involves creating a visually appealing and user-friendly static webs
 
 **Azure Static Website**
 Azure Static Website is a hosting service in Microsoft Azure designed for deploying and serving static web content. With features like global content delivery, automatic scaling, and seamless integration with Azure Storage, it provides a reliable and cost-effective solution for hosting HTML, CSS, and JavaScript-based websites with minimal configuration.
+![Screenshot (38)](https://github.com/Manojshiva06/Kitchen-Teacher/assets/151997856/bdd4634d-d98a-4e2b-b5ee-6cf3a6142e55)
+
+**Azure blob storage**
+![Screenshot (39)](https://github.com/Manojshiva06/Kitchen-Teacher/assets/151997856/567a2676-e871-40be-8cdc-35e36d2ccdcd)
+
 **Azure Backup Service**
 Azure Backup Service in Microsoft Azure ensures data resilience with automated, scalable backup solutions. Supporting virtual machines, applications, and files, it offers features like long-term retention and geo-redundancy. This service enhances overall data protection, enabling efficient disaster recovery and secure backup management in the Azure cloud environment.
+![Screenshot (40)](https://github.com/Manojshiva06/Kitchen-Teacher/assets/151997856/3a5e344a-1725-413b-9668-2b96e335d75c)
 
 **Azure ChatBot**
 The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability. 
-# Working Live Project Dislay
+![Screenshot (41)](https://github.com/Manojshiva06/Kitchen-Teacher/assets/151997856/907f49b9-3c4b-4294-828a-f899401e6700)
+
+# Working Live Project Display
+![Screenshot (42)](https://github.com/Manojshiva06/Kitchen-Teacher/assets/151997856/e8fb11b6-bdb3-4efd-9aac-b45c63b4cb2f)
+![Screenshot (43)](https://github.com/Manojshiva06/Kitchen-Teacher/assets/151997856/6a18a506-14fd-4285-bb51-7f5b3a49be4b)
+![Screenshot (44)](https://github.com/Manojshiva06/Kitchen-Teacher/assets/151997856/dc18c708-ca13-43d0-a2ac-493f92a81744)
+
 **Description**
 Here I am attaching the final working website's screenshot for the reference.
 # Final Project Statement
