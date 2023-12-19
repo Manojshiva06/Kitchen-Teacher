@@ -24,7 +24,7 @@ The project involves creating a visually appealing and user-friendly static webs
 
 **Azure Static Website**
 Azure Static Website is a hosting service in Microsoft Azure designed for deploying and serving static web content. With features like global content delivery, automatic scaling, and seamless integration with Azure Storage, it provides a reliable and cost-effective solution for hosting HTML, CSS, and JavaScript-based websites with minimal configuration.
-![Screenshot (38)](https://github.com/Manojshiva06/Kitchen-Teacher/assets/151997856/bdd4634d-d98a-4e2b-b5ee-6cf3a6142e55)
+![image](https://github.com/Manojshiva06/Kitchen-Teacher/assets/151997856/bdd4634d-d98a-4e2b-b5ee-6cf3a6142e55)
 
 **Azure blob storage**
 ![Screenshot (39)](https://github.com/Manojshiva06/Kitchen-Teacher/assets/151997856/567a2676-e871-40be-8cdc-35e36d2ccdcd)
