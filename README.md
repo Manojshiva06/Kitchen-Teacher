@@ -1,10 +1,10 @@
 # Kitchen-Teacher
 A platform to know the magic in your own hands
 # Project Details
-Project Demo URL : 
-Demo Video URL : 
-Github Repository URL : 
-Industry : Lifestyle and Technology
+  1. Project Demo URL : 
+  1. Demo Video URL : 
+  1. Github Repository URL : 
+  1. Industry : Lifestyle and Technology
 # Azure Services Used
   1. Azure Blob storage
   1. Storage Account
