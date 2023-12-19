@@ -46,15 +46,15 @@ The Azure AI Language Chatbot is a cutting-edge conversational agent powered by 
 ![Screenshot (45)](https://github.com/Manojshiva06/Kitchen-Teacher/assets/151997856/240f5d54-2c90-48ec-a7e3-42cc64e18318)
 ![Screenshot (46)](https://github.com/Manojshiva06/Kitchen-Teacher/assets/151997856/880b387a-5c6a-4c74-9b3e-ef7b9627302a)
 
-** Meals Page**
+**Meals Page**
 ![Screenshot (47)](https://github.com/Manojshiva06/Kitchen-Teacher/assets/151997856/42b83979-13f3-488f-9c20-ab07abb38f0d)
 ![Screenshot (48)](https://github.com/Manojshiva06/Kitchen-Teacher/assets/151997856/4cc963cc-e12b-4e93-bdd0-f0cca65fad8b)
 
-** Desserts Page**
+**Desserts Page**
 ![Screenshot (49)](https://github.com/Manojshiva06/Kitchen-Teacher/assets/151997856/7fa2aa3e-477b-4403-b22d-3d0213a140ff)
 ![Screenshot (50)](https://github.com/Manojshiva06/Kitchen-Teacher/assets/151997856/3385405e-b76e-40e9-afb7-ae7da6f95019)
 
-** Snacks Page**
+**Snacks Page**
 ![Screenshot (51)](https://github.com/Manojshiva06/Kitchen-Teacher/assets/151997856/db869eff-75c6-40b0-93e7-35e436f886aa)
 ![Screenshot (52)](https://github.com/Manojshiva06/Kitchen-Teacher/assets/151997856/a1277895-ce70-44fa-ae6c-d6ab3f17b75e)
 
