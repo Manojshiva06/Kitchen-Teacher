@@ -20,6 +20,8 @@ The project involves creating a visually appealing and user-friendly static webs
 # Azure AI Service
   **Azure ChatBot**:The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability. 
 # ScreenShots
+![image](https://github.com/Manojshiva06/Kitchen-Teacher/assets/151997856/6039b230-9e4a-490a-abc5-13f93c91a9a5)
+
 **Azure Static Website**
 Azure Static Website is a hosting service in Microsoft Azure designed for deploying and serving static web content. With features like global content delivery, automatic scaling, and seamless integration with Azure Storage, it provides a reliable and cost-effective solution for hosting HTML, CSS, and JavaScript-based websites with minimal configuration.
 **Azure Backup Service**
