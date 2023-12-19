@@ -32,3 +32,4 @@ The Azure AI Language Chatbot is a cutting-edge conversational agent powered by 
 **Description**
 Here I am attaching the final working website's screenshot for the reference.
 # Final Project Statement
+The goal is to deliver a polished static website that not only serves as an online platform for the kitchen teacher's lessons but also engages users with an aesthetically pleasing design and seamless navigation. The website should be informative, inspiring, and encourage users to explore various culinary skills through well-organized content.
