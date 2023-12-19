@@ -1,9 +1,9 @@
 # Kitchen-Teacher
 A platform to know the magic in your own hands
 # Project Details
-  1. Project Demo URL : 
-  1. Demo Video URL : 
-  1. Github Repository URL : 
+  1. Project Demo URL : [https://kitchennteacher.z13.web.core.windows.net/]
+  1. Demo Video URL : [https://www.youtube.com/watch?v=t0srDtedIeg&t=2s]
+  1. Github Repository URL : [https://github.com/Manojshiva06/Kitchen-Teacher]
   1. Industry : Lifestyle and Technology
 # Azure Services Used
   1. Azure Blob storage
