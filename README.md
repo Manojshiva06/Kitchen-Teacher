@@ -12,7 +12,7 @@ A platform to know the magic in your own hands
 # Problem Statement
 Many aspiring chefs lack accessible culinary resources. A kitchen teacher aims to bridge this gap by offering online tutorials. However, a static website is needed to effectively showcase and organize the lessons.
 # Project Decription
-The project involves creating a visually appealing and user-friendly static website for a kitchen teacher. The website should include sections for different recipes, detailed instructions, and perhaps a blog to share tips and insights. The design should be intuitive, making it easy for users to navigate and find the information they need.
+
 # Core Azure Services
    **Azure Blob Storage** Azure Blob Storage:**Azure Blob Storage is Microsoft's scalable object storage solution in the Azure cloud. It enables secure and cost-effective storage of unstructured data, such as documents and images. Offering seamless integration with applications, it supports data of any size and optimizes accessibility through a globally distributed network.
    **Azure Storage Account** Azure Storage Account is a foundational component in Microsoft Azure, providing secure and scalable cloud storage. It supports various storage services like Blob, File, Queue, and Table, accommodating diverse data types. With features such as redundancy options and access controls, it ensures reliable and efficient data management.
