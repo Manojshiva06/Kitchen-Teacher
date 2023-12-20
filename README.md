@@ -65,6 +65,7 @@ The Azure AI Language Chatbot is a cutting-edge conversational agent powered by 
 **Description**
 Here I am attaching the final working website's screenshot for the reference.
 # Resource Visualizer
-![image](https://github.com/Manojshiva06/Kitchen-Teacher/assets/151997856/6d731ce5-05a7-4ca1-b35d-9c7a31cb968a)
+![Screenshot (66)](https://github.com/Manojshiva06/Kitchen-Teacher/assets/151997856/bdd9bb54-25b4-4126-8d3c-3f33c54a4658)
+
 # Final Project Statement
 The goal is to deliver a polished static website that not only serves as an online platform for the kitchen teacher's lessons but also engages users with an aesthetically pleasing design and seamless navigation. The website should be informative, inspiring, and encourage users to explore various culinary skills through well-organized content.
