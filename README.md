@@ -5,6 +5,7 @@ A platform to know the magic in your own hands
   1. Demo Video URL : [https://www.youtube.com/watch?v=t0srDtedIeg&t=2s]
   1. Github Repository URL : [https://github.com/Manojshiva06/Kitchen-Teacher]
   1. Industry : Lifestyle and Technology
+**Kindly go through this links for project demo ,demo video**
 # Azure Services Used
   1. Azure Blob storage
   1. Storage Account
