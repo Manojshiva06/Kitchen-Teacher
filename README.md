@@ -6,10 +6,7 @@ A platform to know the magic in your own hands.
   1. Kavya      - Frontend and AI services Deployment
   1. Keerthana  - Content Collection ,Debugging
 # Project Details
-  1. Project Demo URL : [https://kitchennteacher.z13.web.core.windows.net/]
-  1. Demo Video URL : [https://www.youtube.com/watch?v=t0srDtedIeg&t=2s]
-  1. Github Repository URL : [https://github.com/Manojshiva06/Kitchen-Teacher]
-  1. Industry : Lifestyle and Technology
+  
 
 # 
 **Kindly go through this links for project demo [https://kitchennteacher.z13.web.core.windows.net/]  ,demo video [https://kitchennteacher.z13.web.core.windows.net/]**
