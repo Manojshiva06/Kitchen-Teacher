@@ -9,7 +9,7 @@ A platform to know the magic in your hands.
 1. Project Demo URL : [https://kitchennteacher.z13.web.core.windows.net/]
   1. Demo Video URL : [https://www.youtube.com/watch?v=t0srDtedIeg&t=2s]
   1. Github Repository URL : [https://github.com/Manojshiva06/Kitchen-Teacher]
-  1. Industry : Lifestyle and Technology
+  1. Industry : Lifestyle
 # 
 **Kindly go through this links for project demo [https://kitchennteacher.z13.web.core.windows.net/]  ,demo video [https://kitchennteacher.z13.web.core.windows.net/]**
 # Azure Services Used
