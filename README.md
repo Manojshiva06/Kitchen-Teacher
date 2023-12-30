@@ -22,7 +22,7 @@ Many aspiring chefs lack accessible culinary resources. A kitchen teacher aims t
 The project involves creating a visually appealing and user-friendly static website for a kitchen teacher. The website should include sections for different recipes, detailed instructions, and perhaps a blog to share tips and insights. The design should be intuitive, making it easy for users to navigate and find the information they need.
 # Core Azure Services
    
-   
+  
    **Azure Storage Account**: Azure Storage Account is a foundational component in Microsoft Azure, providing secure and scalable cloud storage. It supports various storage services like Blob, File, Queue, and Table, accommodating diverse data types. With features such as redundancy options and access controls, it ensures reliable and efficient data management.
    
    **Azure Backup Service** Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. It offers automated and scalable backup solutions for virtual machines, applications, and files. With features like long-term retention and geo-redundancy, it ensures data resilience and facilitates efficient disaster recovery, enhancing overall data protection strategies.
