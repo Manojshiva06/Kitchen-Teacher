@@ -1,5 +1,10 @@
 # Kitchen-Teacher
 A platform to know the magic in your own hands.
+# Roles and Responsibilities
+  1. Manoj      - Frontend development
+  1. Anvesh     - Azure AI Services
+  1. Kavya      - Frontend and AI services Deployment
+  1. Keerthana  - Content Collection ,Debugging
 # Project Details
   1. Project Demo URL : [https://kitchennteacher.z13.web.core.windows.net/]
   1. Demo Video URL : [https://www.youtube.com/watch?v=t0srDtedIeg&t=2s]
