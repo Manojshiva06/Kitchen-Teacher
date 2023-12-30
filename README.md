@@ -1,5 +1,4 @@
-# Kitchen-Teacher
-A platform to know the magic in your own hands.
+# 
 # Project Details
   1. Project Demo URL : [https://kitchennteacher.z13.web.core.windows.net/]
   1. Demo Video URL : [https://www.youtube.com/watch?v=t0srDtedIeg&t=2s]
