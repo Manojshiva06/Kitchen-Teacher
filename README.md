@@ -1,6 +1,6 @@
 # Kitchen-Teacher
 A platform to know the magic in your hands.
-# Roles and Responsibilities
+# Roles/Responsibilities
   1. Manoj      - Frontend development
   1. Anvesh     - Azure AI Services
   1. Kavya      - Frontend and AI services Deployment
