@@ -1,5 +1,5 @@
 # Kitchen-Teacher
-A platform to know the magic in your own hands.
+A platform to know the magic in your hands.
 # Roles and Responsibilities
   1. Manoj      - Frontend development
   1. Anvesh     - Azure AI Services
