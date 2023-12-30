@@ -18,10 +18,10 @@ A platform to know the magic in your hands.
   1. Azure Backup service
 
 # Technologies Used
-   •	HTML5
-   •	CSS 3
-   •	Bootstrap 5
-   •	Azure portal
+   1.	HTML5
+   2.	CSS 3
+   3.	Bootstrap 5
+   4.	Azure portal
 
 # Problem Statement
 Many aspiring chefs lack accessible culinary resources. A kitchen teacher aims to bridge this gap by offering online tutorials. However, a static website is needed to effectively showcase and organize the lessons.
