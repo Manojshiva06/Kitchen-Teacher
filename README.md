@@ -6,6 +6,11 @@ A platform to know the magic in your own hands
   1. Github Repository URL : [https://github.com/Manojshiva06/Kitchen-Teacher]
   1. Industry : Lifestyle and Technology
 
+# Rolws and Responsibilities
+  1. Manoj      - Frontend development
+  1. Anvesh     - Azure AI Services
+  1. Kavya      - Frontend and AI services Deployment
+  1. Keerthana  - Content Collection ,Debugging
 **Kindly go through this links for project demo [https://kitchennteacher.z13.web.core.windows.net/]  ,demo video [https://kitchennteacher.z13.web.core.windows.net/]**
 # Azure Services Used
   1. Azure Blob storage
